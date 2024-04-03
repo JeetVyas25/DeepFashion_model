@@ -1,11 +1,11 @@
 # DeepFashion_model
 ---
 
-## Fashion Object Detection using YOLOv8
+## Fashion Object Segmentation using YOLOv8
 
 ### Overview
 
-This project focuses on training a YOLOv8 model for fashion object detection. The following steps outline the flow involved in the project:
+This project focuses on training a YOLOv8 model for fashion object segmentation. The following steps outline the flow involved in the project:
 
 ### Flow Involved
 
