@@ -1,6 +1,4 @@
 # DeepFashion_model
-Certainly! Below is a formatted version of the given content suitable for a README.md file on GitHub:
-
 ---
 
 ## Fashion Object Detection using YOLOv8
